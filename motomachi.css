@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "Motomachi";
+  src: url("./web/Motomachi-Light.woff2") format("woff2"),
+       url("./web/Motomachi-Light.woff") format("woff"),
+       url("./web/Motomachi-Light.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Motomachi";
+  src: url("./web/Motomachi-Regular.woff2") format("woff2"),
+       url("./web/Motomachi-Regular.woff") format("woff"),
+       url("./web/Motomachi-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Motomachi";
+  src: url("./web/Motomachi-Medium.woff2") format("woff2"),
+       url("./web/Motomachi-Medium.woff") format("woff"),
+       url("./web/Motomachi-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Motomachi";
+  src: url("./web/Motomachi-Bold.woff2") format("woff2"),
+       url("./web/Motomachi-Bold.woff") format("woff"),
+       url("./web/Motomachi-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Motomachi";
+  src: url("./web/Motomachi-Extrabold.woff2") format("woff2"),
+       url("./web/Motomachi-Extrabold.woff") format("woff"),
+       url("./web/Motomachi-Extrabold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+}
