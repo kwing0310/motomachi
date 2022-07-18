@@ -1,5 +1,7 @@
 # Motomachi
 
+![Hero Image](./hero.png)
+
 [M PLUS 1p](https://fonts.google.com/specimen/M+PLUS+1p) と [Inter](https://fonts.google.com/specimen/Inter) を合成した日本語フォントです。
 
 合成に使用したスクリプトは [Koruri/Scripts](https://github.com/Koruri/Scripts) をベースに制作したもので、[yui87/motomachi-scripts](https://github.com/yui87/motomachi-scripts) から入手することができます。
